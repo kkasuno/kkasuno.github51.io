@@ -1,20 +1,21 @@
 ---
-date: 2019-12-8 3:48:05
+date: 2018-07-20 12:26:40
 layout: post
-title: Welcome 
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-image: >-
- https://i.imgur.com/2ZUAiny.jpg
-optimized_image: >-
-  https://i.imgur.com/2ZUAiny.jpg
-category: blog
+title: 드디어 기술 블로그를 완성하였다
+subtitle: 지킬(Jekyll)을 이용한 기술블로그 시작과 완성.
+description: 
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
+category: code
 tags:
-  - welcome
-  - blog
-author: thiagorossener
+  - platform
+  - javascript
+  - vscode
+  - Jekyll
+  - code
+author: duoduo
 paginate: true
 comments: true
 ---
+
+
