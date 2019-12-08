@@ -1,147 +1,44 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2019-05-16 23:48:05
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+title: LA에 브로드 현대 미술관을 가보았다.  
+subtitle: LA에서 예술 맛보기.  
+description: >-
+  
+image: >-
+  https://i.imgur.com/ayxEZa7.jpg
+optimized_image: >-
+  https://i.imgur.com/ayxEZa7.jpg
+category: blog
 tags:
-  - books
-  - read
-author: thiagorossener
+  - welcome
+  - art 
+  - LA
+author: duoduo
 paginate: true
+comments: true
 ---
+이번에 LA로 여행을 가면서 많은 박물관을 가보았다. 그 중에 <a href="#">The broad 현대 미술관 </a>, 기억이 난다. 
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-<!--page-->
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-<!--page-->
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-<!--page-->
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-<!--page-->
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<!--page-->
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+>  유명한 사업가인 엘리 브로드의 이름에서 따온 박물관으로 총 3층 건물 구조로 건물 자체가 하나의 디자인인 유명한 박물관이다.
 
 
+## 다양한 현대 미술관  
+
+아침 일찍 출발하였지만, 너무나 많은 사람들이 줄을 서서 기다리고 있었다. 일단, 건물 디자인에 눈을 넋이 나가 구경하고 있었고 그리고 그 유명하다는 쿠사마 야요이의 Infinity mirrored room을 기대하고 있었다. 
+
+입장권은 무료였지만, 박물관인 수용할 수 있는 인원만큼 박물관으로 들어 갈 수 있었다. 유명한 현대미술관인 만큼 너무나 많은 사람들이 붐비어 오고 있었다. 나는 일찍 도착하였다고 생각했지만.. 이미 쿠사마 야요이의 작품을 보기 위해선 Waiting list에 등록 할 수 밖에 없었다. 
 
 
+# 당신이 제일 먼저 해야 할 것. 
+제일 먼저 박물관에 들어가면 쿠사마 야요이의 작품을 보기 위해서 대기 리스트를 등록해야한다. 입구에서 왼쪽에 스태프가 친절하게 도와주며 번호와 이름을 알려주면 자신의 대기 번호와 함께 몇시에 출입이 가능한지 연락이 온다. 우리가 어리버리하였는 지 한국인 스태프 분이 오셔서 친절히 도와주셨다. 
 
+**대기시간은 무려 2시간이었다** 오픈 시간에 맞춰서 도착하였지만 줄을 기다렸고 그래도 이른 시간에 도착하였음에도 불구하고 대기시간이 저렇게 길다니! 한국 스태프 분께서 우리가 시간에 대해서 플랜을 짜고 있는 것에 친절히 도움을 주셨다. 티켓만 있다면 언제든 박물관을 나갔다가 입구에서 다시 보여주면 바로 들어올 수 있으니 다른 작품 보다가 밖에서 식사하고 오셔도 된다고 하였다! 
 
+앤디 워홀에 작품도 보고 여러가지 현대미술 작품을 보고 이해할 수 없지만 그 안에 무언가 갈등, 분노, 억압, 자유를 위한 표출이라는 주제가 많다는 것을 알았다. 현대 미술은 점차 억압으로 부터의 표출이 주된 주제가 되어가는 것인가. 
 
+쿠사마 야요이의 작품은 정말 대단하다. 다만, 한 사람당 5분 밖에 시간이 안주어진다는 것이다. 즉, 그의 작품은 밀폐된 장소에 있고 그곳에 들어가 사진을 찍든 영상을 찍든 같이 들어가든 5분안에 모든 것을 해결해야 한다. 사긴 찍기엔 이쁘고.. 사실 사진 찍는 라 작품을 제대로 생각하고 볼 여유조차 없었다. 
 
+![placeholder](https://jmagazine.joins.com/_data/photo/2017/11/2949993309_QzSe8W2f_7.jpg "출처 중앙시사매거진 ")
 
 
