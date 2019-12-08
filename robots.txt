@@ -2,5 +2,4 @@
 
 User-agent: *
 Allow: /
-
 Sitemap: https://kkasuno.github.io/sitemap.xml
