@@ -1,16 +1,30 @@
 # Site Settings
-name: DUODUO
-title: DUODUO | 안녕하신가! 여러분! 환영하네
-description: Duoduo is my blog for everythings. It made by a template for Jekyll by Thiago Rossener.
+name: Jekflix
+title: Jekflix | A blog theme for Jekyll
+description: Jekflix is a template for Jekyll inspired by Netflix and made by
+  Thiago Rossener.
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: kkasuno71@gmail.com
-disqus_username: duoduo-1
 show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+email: youremail@test.com
+# See: https://disqus.com/
+disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: formspree_form_id
 
 
 # Social Media Settings
@@ -23,14 +37,6 @@ linkedin_username: linkedin_username
 medium_username: medium_username
 
 
-# Theme Settings
-themeColor: "#ff0a16"
-primaryDark: "#141414"
-accentDark: "#ffffff"
-lightGray: "#f2f2f2"
-texts: "#333333"
-
-
 # Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
@@ -40,9 +46,11 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kkasuno.github.io/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
 
 
 # Build settings
@@ -53,6 +61,8 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
+show_get_theme_btn: true
+use_logo: false
 
 # Content paginator
 paginate_content:
@@ -72,13 +82,14 @@ paginate_content:
     single:
       is_generated: true
 
+# SASS
+sass:
+  style: compressed
+
 # Plugins
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
-  - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-sitemap
 
 # Exclude my node related stuff
 exclude: [
@@ -90,7 +101,8 @@ exclude: [
   'Gemfile',
   'Gemfile.lock',
   'gulpfile.js',
-  'README.md',
-  'vendor'
-  
+  'README.md'
 ]
+
+# Theme
+version: v3.1.1
